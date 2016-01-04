@@ -1,0 +1,15 @@
+{
+  "name": "sombre-theme",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A beautiful, sombre theme.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/cloudhead/sombre-theme",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
